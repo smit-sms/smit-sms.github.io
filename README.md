@@ -4,5 +4,5 @@
 ### My personal portfolio website
 
 ```
-https://smit-sms.hithub.io
+https://smit-sms.github.io
 ```
